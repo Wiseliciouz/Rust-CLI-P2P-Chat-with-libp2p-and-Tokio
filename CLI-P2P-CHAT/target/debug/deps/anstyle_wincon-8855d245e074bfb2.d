@@ -1,0 +1,10 @@
+C:\Users\sahan\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug\deps\libanstyle_wincon-8855d245e074bfb2.rmeta: C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs
+
+C:\Users\sahan\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug\deps\libanstyle_wincon-8855d245e074bfb2.rlib: C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs
+
+C:\Users\sahan\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug\deps\anstyle_wincon-8855d245e074bfb2.d: C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs
+
+C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs:
+C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs:
+C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs:
+C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs:

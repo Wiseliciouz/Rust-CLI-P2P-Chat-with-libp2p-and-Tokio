@@ -1,0 +1,10 @@
+C:\Users\sahan\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug\deps\libquick_protobuf-524a80edcdb50ab7.rmeta: C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quick-protobuf-0.8.1\src\lib.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quick-protobuf-0.8.1\src\errors.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quick-protobuf-0.8.1\src\message.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quick-protobuf-0.8.1\src\reader.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quick-protobuf-0.8.1\src\sizeofs.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quick-protobuf-0.8.1\src\writer.rs
+
+C:\Users\sahan\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug\deps\quick_protobuf-524a80edcdb50ab7.d: C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quick-protobuf-0.8.1\src\lib.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quick-protobuf-0.8.1\src\errors.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quick-protobuf-0.8.1\src\message.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quick-protobuf-0.8.1\src\reader.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quick-protobuf-0.8.1\src\sizeofs.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quick-protobuf-0.8.1\src\writer.rs
+
+C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quick-protobuf-0.8.1\src\lib.rs:
+C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quick-protobuf-0.8.1\src\errors.rs:
+C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quick-protobuf-0.8.1\src\message.rs:
+C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quick-protobuf-0.8.1\src\reader.rs:
+C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quick-protobuf-0.8.1\src\sizeofs.rs:
+C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quick-protobuf-0.8.1\src\writer.rs:

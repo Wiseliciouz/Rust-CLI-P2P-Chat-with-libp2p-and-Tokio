@@ -1,0 +1,12 @@
+C:\Users\sahan\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug\deps\libcore2-4157be70b05c21d1.rmeta: C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\lib.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\error.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\io\mod.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\io\cursor.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\io\error.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\io\impls.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\io\traits.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\io\util.rs
+
+C:\Users\sahan\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug\deps\core2-4157be70b05c21d1.d: C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\lib.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\error.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\io\mod.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\io\cursor.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\io\error.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\io\impls.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\io\traits.rs C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\io\util.rs
+
+C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\lib.rs:
+C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\error.rs:
+C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\io\mod.rs:
+C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\io\cursor.rs:
+C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\io\error.rs:
+C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\io\impls.rs:
+C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\io\traits.rs:
+C:\Users\sahan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\core2-0.4.0\src\io\util.rs:
