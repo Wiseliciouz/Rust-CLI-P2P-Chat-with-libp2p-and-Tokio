@@ -1,0 +1,6 @@
+[package]
+name = "CLI-P2P-CHAT"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
