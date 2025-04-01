@@ -12,7 +12,7 @@ cargo:rerun-if-env-changed=CARGO_CFG_TARGET_OS
 cargo:rerun-if-env-changed=CARGO_CFG_TARGET_ENV
 cargo:rerun-if-env-changed=CARGO_CFG_TARGET_ENDIAN
 OPT_LEVEL = Some(0)
-OUT_DIR = Some(C:\Users\sahan\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug\build\ring-966d8c6b57c0e15f\out)
+OUT_DIR = Some(C:\Users\sahan\Rust\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug\build\ring-966d8c6b57c0e15f\out)
 TARGET = Some(x86_64-pc-windows-msvc)
 cargo:rerun-if-env-changed=VCINSTALLDIR
 VCINSTALLDIR = None
@@ -26,7 +26,7 @@ cargo:rerun-if-env-changed=WindowsSDKVersion
 WindowsSDKVersion = None
 cargo:rerun-if-env-changed=LIB
 LIB = None
-PATH = Some(C:\Users\sahan\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug\deps;C:\Users\sahan\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug;C:\Users\sahan\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\sahan\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Users\sahan\.cargo\bin;C:\Users\sahan\AppData\Local\Microsoft\WindowsApps;C:\Users\sahan\.dotnet\tools;C:\Users\sahan\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sahan\AppData\Roaming\Programs\Zero Install;C:\Users\sahan\AppData\Roaming\npm)
+PATH = Some(C:\Users\sahan\Rust\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug\deps;C:\Users\sahan\Rust\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug;C:\Users\sahan\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\sahan\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Users\sahan\.cargo\bin;C:\Users\sahan\AppData\Local\Microsoft\WindowsApps;C:\Users\sahan\.dotnet\tools;C:\Users\sahan\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sahan\AppData\Roaming\Programs\Zero Install;C:\Users\sahan\AppData\Roaming\npm)
 cargo:rerun-if-env-changed=INCLUDE
 INCLUDE = None
 HOST = Some(x86_64-pc-windows-msvc)
@@ -68,7 +68,7 @@ curve25519_64_adx.c
 p256-nistz.c
 cargo:rustc-link-lib=static=ring_core_0_17_14_
 OPT_LEVEL = Some(0)
-OUT_DIR = Some(C:\Users\sahan\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug\build\ring-966d8c6b57c0e15f\out)
+OUT_DIR = Some(C:\Users\sahan\Rust\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug\build\ring-966d8c6b57c0e15f\out)
 TARGET = Some(x86_64-pc-windows-msvc)
 cargo:rerun-if-env-changed=VCINSTALLDIR
 VCINSTALLDIR = None
@@ -82,7 +82,7 @@ cargo:rerun-if-env-changed=WindowsSDKVersion
 WindowsSDKVersion = None
 cargo:rerun-if-env-changed=LIB
 LIB = None
-PATH = Some(C:\Users\sahan\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug\deps;C:\Users\sahan\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug;C:\Users\sahan\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\sahan\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Users\sahan\.cargo\bin;C:\Users\sahan\AppData\Local\Microsoft\WindowsApps;C:\Users\sahan\.dotnet\tools;C:\Users\sahan\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sahan\AppData\Roaming\Programs\Zero Install;C:\Users\sahan\AppData\Roaming\npm)
+PATH = Some(C:\Users\sahan\Rust\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug\deps;C:\Users\sahan\Rust\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug;C:\Users\sahan\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\sahan\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin;C:\Users\sahan\.cargo\bin;C:\Users\sahan\AppData\Local\Microsoft\WindowsApps;C:\Users\sahan\.dotnet\tools;C:\Users\sahan\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sahan\AppData\Roaming\Programs\Zero Install;C:\Users\sahan\AppData\Roaming\npm)
 cargo:rerun-if-env-changed=INCLUDE
 INCLUDE = None
 HOST = Some(x86_64-pc-windows-msvc)
@@ -109,7 +109,7 @@ CFLAGS_x86_64-pc-windows-msvc = None
 CARGO_ENCODED_RUSTFLAGS = Some()
 constant_time_test.c
 cargo:rustc-link-lib=static=ring_core_0_17_14__test
-cargo:rustc-link-search=native=C:\Users\sahan\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug\build\ring-966d8c6b57c0e15f\out
+cargo:rustc-link-search=native=C:\Users\sahan\Rust\Rust-CLI-P2P-Chat-with-libp2p-and-Tokio\CLI-P2P-CHAT\target\debug\build\ring-966d8c6b57c0e15f\out
 cargo:rerun-if-changed=crypto\chacha\asm\chacha-armv4.pl
 cargo:rerun-if-changed=crypto\chacha\asm\chacha-armv8.pl
 cargo:rerun-if-changed=crypto\chacha\asm\chacha-x86.pl
